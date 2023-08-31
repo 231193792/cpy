@@ -1,0 +1,16 @@
+{
+    "示例":"使用方式复制一份文件更名为 conf.json，根据个人配置相关选项值",
+    "游览器":{
+        "chromedriver路径":"E:/download/chromedriver-win64/chromedriver.exe",
+        "chrome路径":"E:/download/chrome-win64/chrome-win64/chrome.exe"
+    },
+    "自动点击":{
+
+    },
+    "fangjia":{
+        "文件路径":"e:/pythondemo/postApi",
+        "小区列表":[
+            {"小区": "xxxxx", "链接" : "xxxxxxx"}
+        ]
+    }
+}
